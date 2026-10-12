@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saichoi.github.io/sitemap.xml
